@@ -15,6 +15,6 @@ the dist directory with an argument, or you can install the required libraries w
 pip install pillow and then run the count_lines python file. 
 
 ## Examples
-# The below examples assume the image is in the same folder as the executable
+## The below examples assume the image is in the same folder as the executable
 count_lines.py img_4.jpg
 count_lines.exe img_2.jpg

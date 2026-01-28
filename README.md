@@ -2,6 +2,9 @@
 This is a console application that counts the number of vertical black lines in
 an image. The goal is to have a simple, robust app for this task. 
 
+I know committing the build files isn't best practice but I added it for
+ease of testing. 
+
 ## Assumptions
 1. Image is a .jpg.
 2. Background is white.
